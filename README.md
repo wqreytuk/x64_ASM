@@ -6,7 +6,7 @@ this project serves to x64 assemble code testing
 
 
 
-test your code in file: `源1.cpp.asm`
+modify code in `源1.cpp.asm` and build project, then test assembly code with [x64dbg](https://x64dbg.com/)
 
 
 
