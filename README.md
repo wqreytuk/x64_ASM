@@ -14,3 +14,9 @@ have fun!
 
 references:
  - https://www.youtube.com/watch?v=rxsBghsrvpI
+
+
+# Intel  VT-x检测项目
+
+
+https://github.com/wqreytuk/x64_ASM/blob/main/x64_A2SM-main.7z
