@@ -20,3 +20,6 @@ references:
 
 
 https://github.com/wqreytuk/x64_ASM/blob/main/x64_A2SM-main.7z
+
+
+C:\Users\LC\Downloads\x64_ASM-main\x64_ASM-main\x64\Debug\Project1.exe
